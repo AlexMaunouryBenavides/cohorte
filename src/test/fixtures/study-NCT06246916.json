@@ -1,0 +1,389 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06246916",
+      "orgStudyIdInfo": {
+        "id": "R3767-ONC-22122"
+      },
+      "organization": {
+        "fullName": "Regeneron Pharmaceuticals",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study With Combinations of Anti-LAG-3 and Anti-PD-1 Antibodies in Adult Participants With Advanced or Metastatic Melanoma (Harmony Head-to-Head)",
+      "officialTitle": "A Phase 3 Study of Fixed Dose Combinations of Fianlimab and Cemiplimab Versus Relatlimab and Nivolumab in Participants With Unresectable or Metastatic Melanoma"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-11",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-09-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-03-22",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2033-07-10",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-01-30",
+      "studyFirstSubmitQcDate": "2024-01-30",
+      "studyFirstPostDateStruct": {
+        "date": "2024-02-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-11-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-11-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Regeneron Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is researching an experimental drug called fianlimab (also known as REGN3767), combined with another medication called cemiplimab (also known as REGN2810), called \"study drugs\". The study is focused on patients with a type of skin cancer known as melanoma. The aim of the study is to see how safe and effective the combination of fianlimab and cemiplimab is in treating melanoma, in comparison with the combination of two medications, relatlimab and nivolumab, commercialized under the brand name Opdualag™ and approved for the treatment of melanoma in adults and children.\n\nThe study is looking at several other research questions, including:\n\n* What side effects may happen from taking the study drugs.\n* How much study drug is in the blood at different times.\n* Whether the body makes antibodies against the study drugs (which could make the drug less effective or could lead to side effects)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Melanoma"
+      ],
+      "keywords": [
+        "Unresectable Melanoma",
+        "Metastatic Melanoma",
+        "Advanced Melanoma",
+        "Stage III",
+        "Stage IV"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 560,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "fianlimab+cemiplimab",
+          "type": "EXPERIMENTAL",
+          "description": "Randomized 1:1",
+          "interventionNames": [
+            "Drug: fianlimab",
+            "Drug: cemiplimab"
+          ]
+        },
+        {
+          "label": "relatlimab+nivolumab",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Randomized 1:1",
+          "interventionNames": [
+            "Drug: relatlimab+nivolumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "fianlimab",
+          "description": "Intravenous (IV) administration every 3 weeks (Q3W) in combination with cemiplimab",
+          "armGroupLabels": [
+            "fianlimab+cemiplimab"
+          ],
+          "otherNames": [
+            "REGN3767"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "cemiplimab",
+          "description": "IV administration Q3W in combination with fianlimab",
+          "armGroupLabels": [
+            "fianlimab+cemiplimab"
+          ],
+          "otherNames": [
+            "REGN2810",
+            "LIBTAYO®"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "relatlimab+nivolumab",
+          "description": "IV administration every 4 weeks (Q4W)",
+          "armGroupLabels": [
+            "relatlimab+nivolumab"
+          ],
+          "otherNames": [
+            "Opdualag™"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective response rate (ORR) per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 based on blinded independent central review (BICR)",
+          "timeFrame": "Up to 72 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Progression free survival (PFS) RECIST version 1.1 based on BICR",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Death from any cause",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Overall survival (OS)",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Duration of Response (DOR) by BICR",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "DOR by investigator assessment",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Disease control rate (DCR) by BICR",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "DCR by investigator assessment",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "ORR based on investigator assessment according to RECIST version 1.1",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "PFS based on investigator assessment according to RECIST version 1.1",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of treatment-emergent adverse events (TEAEs)",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of serious adverse events (SAEs)",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of immune-mediated adverse events (imAEs)",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Occurrence of interruption of study drug(s) due to AEs",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Occurrence of discontinuation of study drug(s) due to AEs",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "TEAEs leading to death",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of laboratory abnormalities",
+          "description": "Grade ≥3 per National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE v5.0) including standard hematology, chemistry, urinalysis, and other lab tests",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Concentration of fianlimab in serum",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Concentration of cemiplimab in serum",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of anti-drug antibodies (ADAs) to fianlimab",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Titer of ADAs to fianlimab",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of ADAs to cemiplimab",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Titer of ADAs to cemiplimab",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of neutralizing antibodies (NAbs) to fianlimab",
+          "timeFrame": "Up to 72 months"
+        },
+        {
+          "measure": "Incidence of NAbs to cemiplimab",
+          "timeFrame": "Up to 72 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Participants with histologically confirmed unresectable stage III and stage IV (metastatic) melanoma per American Joint Committee on Cancer (AJCC), eighth revised edition.\n2. Participants must not have received prior systemic therapy for unresectable or metastatic melanoma as described in the protocol.\n3. Measurable disease per RECIST version 1.1.\n4. Eastern Cooperative Oncology Group (ECOG) performance status (PS) ≤1\n5. Adequate bone marrow, hepatic, and kidney function\n6. Known B-Rapidly Accelerated Fibrosarcoma protein (BRAF) V600 mutation status or submitted sample for BRAF V600 mutation assessment as described in the protocol\n\nKey Exclusion Criteria:\n\nMedical Conditions:\n\n1. Uveal, acral or mucosal melanoma.\n2. Ongoing or recent (within 2 years) evidence of an autoimmune disease that required systemic treatment with immunosuppressive agents as described in the protocol.\n3. Uncontrolled infection with human immunodeficiency virus (HIV), hepatitis B (HBV), or hepatitis C virus (HCV) infection; or diagnosis of immunodeficiency that is related to, or results in chronic infection. Mild cancer-related immunodeficiency (such as immunodeficiency treated with gamma globulin and without chronic or recurrent infection) is allowed.\n\n   Prior/Concomitant Therapy:\n4. Prior immune checkpoint inhibitor therapy other than anti-PD1/PD-L1 as described in the protocol\n5. Systemic immune suppression as described in the protocol.\n\n   Other Comorbidities:\n6. Participants with a history of myocarditis.\n7. Troponin T (TnT) or troponin I (TnI) \\>2x institutional upper limit of normal (ULN).\n8. Active or untreated brain metastases or spinal cord compression as described in the protocol.\n\nNote: Other protocol-defined Inclusion/ Exclusion Criteria apply.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Clinical Trials Administrator",
+          "role": "CONTACT",
+          "phone": "844-734-6643",
+          "email": "clinicaltrials@regeneron.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Clinical Trial Management",
+          "affiliation": "Regeneron Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Ironwood Cancer & Research Centers",
+          "status": "RECRUITING",
+          "city": "Chandler",
+          "state": "Arizona",
+          "zip": "85224",
+          "country": "United States"
+        },
+        {
+          "facility": "Banner MD Anderson Cancer Center",
+          "status": "RECRUITING",
+          "city": "Gilbert",
+          "state": "Arizona",
+          "zip": "85234",
+          "country": "United States"
+        },
+        {
+          "facility": "Arizona Oncology Associates",
+          "status": "WITHDRAWN",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85711",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Arkansas for Medical Sciences",
+          "status": "WITHDRAWN",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States"
+        },
+        {
+          "facility": "Providence Medical Foundation",
+          "status": "RECRUITING",
+          "city": "Fullerton",
+          "state": "California",
+          "zip": "92835",
+          "country": "United States"
+        },
+        {
+          "facility": "Cancer and Blood Specialty Clinic",
+          "status": "RECRUITING",
+          "city": "Los Alamitos",
+          "state": "California",
+          "zip": "90720",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California Los Angeles",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90024",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Joseph Hospital Orange",
+          "status": "RECRUITING",
+          "city": "Orange",
+          "state": "California",
+          "zip": "92868",
+          "country": "United States"
+        },
+        {
+          "facility": "Arthur J.E. Child Comprehensive Cancer Centre",
+          "status": "RECRUITING",
+          "city": "Calgary",
+          "state": "Alberta",
+          "zip": "T2N 5G2",
+          "country": "Canada"
+        },
+        {
+          "facility": "Cross Cancer Institute",
+          "status": "RECRUITING",
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T6G 1Z2",
+          "country": "Canada"
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Study Informational Website",
+          "url": "https://harmonyheadtohead.com"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "All Individual Patient Data (IPD) that underlie publicly available results will be considered for sharing.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF",
+        "CSR",
+        "ANALYTIC_CODE"
+      ],
+      "timeFrame": "When Regeneron has:\n\n* received marketing authorization from major health authorities (e.g., FDA, European Medicines Agency (EMA), Pharmaceuticals and Medical Devices Agency (PMDA), etc.) for the product and indication or has globally discontinued development of the product for all indications on or after April 2020 and has no plans for future development\n* made the study results publicly available (e.g., scientific publication, scientific conference, clinical trial registry)\n* the legal authority to share the data, and\n* ensured the ability to protect participant privacy.",
+      "accessCriteria": "Qualified researchers can submit a proposal for access to individual patient or aggregate level data from a Regeneron-sponsored clinical trial through Vivli. Regeneron's Independent Research Request Evaluation Criteria can be found at: https://www.regeneron.com/sites/default/files/Regeneron-External-Data-Sharing-Policy-and-Independent-Research-Request-Evaluation-Criteria.pdf.",
+      "url": "https://vivli.org/"
+    }
+  },
+  "hasResults": false
+}

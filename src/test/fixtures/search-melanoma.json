@@ -1,0 +1,295 @@
+{
+  "totalCount": 483,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04198766",
+          "briefTitle": "Study of INBRX-106 and INBRX-106 in Combination With Pembrolizumab (Keytruda®) in Subjects With Locally Advanced or Metastatic Solid Tumors (Hexavalent OX40 Agonist)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2019-12-10"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-11-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Inhibrx Biosciences, Inc"
+          }
+        },
+        "designModule": {
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 340
+          }
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "United States"
+            },
+            {
+              "country": "Singapore"
+            },
+            {
+              "country": "Singapore"
+            },
+            {
+              "country": "Singapore"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "South Korea"
+            },
+            {
+              "country": "Taiwan"
+            },
+            {
+              "country": "Taiwan"
+            },
+            {
+              "country": "Taiwan"
+            },
+            {
+              "country": "Taiwan"
+            },
+            {
+              "country": "Taiwan"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07237594",
+          "briefTitle": "IL-17 Blockade to Decrease irAEs (REPLAY)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-12"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-11-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Duke University"
+          }
+        },
+        "designModule": {
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 4
+          }
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "country": "United States"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05077137",
+          "briefTitle": "A Feasibility Study Utilizing Immune Recall to Increase Response to Checkpoint Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-09-07"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-11-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Duke University"
+          }
+        },
+        "designModule": {
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 25
+          }
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "country": "United States"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "nextPageToken": "ZVNj7o2Elu8o3lpyCMqxo7LumpOQJJxuYvim1fYZnj6SuP08FCfCF_TV89tL1SI"
+}
