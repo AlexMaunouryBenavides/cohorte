@@ -1,0 +1,36 @@
+@use 'shared/styles/mixins' as *;
+
+.skipLink {
+  position: absolute;
+  top: var(--space-2);
+  left: var(--space-2);
+  z-index: 100;
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--color-inverse-bg);
+  color: var(--color-inverse-text);
+  font-weight: var(--fw-semibold);
+  transform: translateY(-200%);
+
+  &:focus {
+    transform: none;
+    color: var(--color-inverse-text);
+  }
+}
+
+.main {
+  @include container;
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  padding-block: var(--space-6) var(--space-12);
+
+  &:focus {
+    outline: none;
+  }
+
+  @include up(md) {
+    padding-block-start: var(--space-8);
+  }
+}

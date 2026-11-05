@@ -1,0 +1,48 @@
+.badge {
+  --badge-bg: var(--status-completed-bg);
+  --badge-fg: var(--status-completed-fg);
+
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  background: var(--badge-bg);
+  color: var(--badge-fg);
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-semibold);
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.primary {
+  --badge-bg: var(--color-primary-soft);
+  --badge-fg: var(--color-primary);
+}
+
+.recruiting {
+  --badge-bg: var(--status-recruiting-bg);
+  --badge-fg: var(--status-recruiting-fg);
+}
+
+.upcoming {
+  --badge-bg: var(--status-upcoming-bg);
+  --badge-fg: var(--status-upcoming-fg);
+}
+
+.active {
+  --badge-bg: var(--status-active-bg);
+  --badge-fg: var(--status-active-fg);
+}
+
+.stopped {
+  --badge-bg: var(--status-stopped-bg);
+  --badge-fg: var(--status-stopped-fg);
+}

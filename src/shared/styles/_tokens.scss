@@ -1,0 +1,79 @@
+// Design tokens — source : planche « Design tokens » de la maquette.
+// Toujours utiliser ces variables dans les composants, jamais une valeur en dur.
+
+:root {
+  // Couleurs
+  --color-primary: #0f5f6b;
+  --color-primary-hover: #0a464f;
+  --color-primary-soft: #e3f1f2;
+  --color-primary-ring: #cde5e7;
+
+  --color-text: #161a21;
+  --color-text-body: #2a303a;
+  --color-text-muted: #586170;
+  --color-text-disabled: #8a919c;
+  --color-nav: #3a414d;
+
+  --color-bg: #f6f7f9;
+  --color-surface: #ffffff;
+  --color-surface-subtle: #fafbfc;
+  --color-border: #e1e4e8;
+  --color-border-subtle: #edeff2;
+  --color-border-strong: #c9ced6;
+
+  --color-inverse-bg: #161a21;
+  --color-inverse-text: #ffffff;
+
+  // Statuts (fond / texte)
+  --status-recruiting-bg: #e2f3e8;
+  --status-recruiting-fg: #17663a;
+  --status-upcoming-bg: #e6eefa;
+  --status-upcoming-fg: #1f4e8c;
+  --status-active-bg: #fcefd9;
+  --status-active-fg: #8a4f00;
+  --status-completed-bg: #eceef1;
+  --status-completed-fg: #3d4552;
+  --status-stopped-bg: #fbe5e3;
+  --status-stopped-fg: #a3261c;
+
+  // Typographie
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'Cascadia Mono', monospace;
+
+  --fs-xs: 0.75rem; // 12
+  --fs-sm: 0.8125rem; // 13
+  --fs-base: 0.875rem; // 14
+  --fs-md: 0.9375rem; // 15
+  --fs-lg: 1.125rem; // 18
+  --fs-xl: 1.25rem; // 20
+  --fs-2xl: 1.75rem; // 28
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  --lh-tight: 1.3;
+  --lh-base: 1.55;
+
+  // Espacements
+  --space-1: 0.25rem; // 4
+  --space-2: 0.5rem; // 8
+  --space-3: 0.75rem; // 12
+  --space-4: 1rem; // 16
+  --space-6: 1.5rem; // 24
+  --space-8: 2rem; // 32
+  --space-12: 3rem; // 48
+
+  // Rayons, ombres
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 10px;
+  --radius-pill: 999px;
+  --shadow-lg: 0 8px 24px rgb(22 26 33 / 25%);
+
+  // Layout
+  --container-max: 1440px;
+  --header-height: 64px;
+  --control-height: 44px;
+}
